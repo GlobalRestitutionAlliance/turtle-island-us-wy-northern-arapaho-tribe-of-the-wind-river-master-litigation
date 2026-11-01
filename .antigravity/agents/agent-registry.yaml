@@ -1,0 +1,12 @@
+agents:
+- id: agent-icj-judgment-and-article-94-marshal
+  name: ICJ Judgment & Article 94 Marshal
+  role: International Court of Justice (ICJ) 1986 Judgment on the Merits Enforcement, UN Charter Article 94 Non-Compliance Sanctions & Restrictive Immunity Forfeiture Marshal
+  status: ACTIVE
+  manifest_file: .antigravity/agents/agent-icj-judgment-and-article-94-marshal.yaml
+- id: agent-nicaragua-canal-and-intervention-historian
+  name: Nicaragua Canal & Intervention Historian
+  role: Historical Interventions Auditor, Bryan-Chamorro Treaty (1914) & CACJ Nullity Precedents, 1912–1933 Marine Occupation Customs Receivership & 1850s Mercenary Filibuster Disgorgement
+  status: ACTIVE
+  manifest_file: .antigravity/agents/agent-nicaragua-canal-and-intervention-historian.yaml
+total_agents: 2

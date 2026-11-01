@@ -1,0 +1,24 @@
+skill:
+  id: "nicaraguan-restitution-roadmap-and-qsf-trust-execution"
+  name: "Nicaraguan Restitution Roadmap & QSF Trust Execution"
+  version: "1.0.0"
+  status: "CERTIFIED"
+  category: "Master Qualified Settlement Fund (26 U.S.C. § 468B) & Post-Judgment Receivership"
+
+description: >
+  Operational protocol for establishing, funding, and administering a court-supervised Master Qualified Settlement Fund (QSF) Trust
+  under 26 U.S.C. § 468B and Treas. Reg. § 1.468B-1 for the Republic of Nicaragua and affected citizens.
+  Directs international commercial attachments, maritime auction proceeds, and foreign exequatur turn-overs into an audited fiduciary escrow.
+
+execution_protocol:
+  step_1: "Submit joint petition for appointment of a Special Master / Equitable Receiver pursuant to Fed. R. Civ. P. 53 and Rule 66 to administer the Nicaraguan National Restitution Trust."
+  step_2: "Establish an interest-bearing escrow trust res with an approved domestic and international fiduciary institution satisfying Treas. Reg. § 1.468B-1(c)."
+  step_3: "Direct proceeds from Rule B/C maritime arrests, foreign asset garnishments, and ICJ reparations turn-overs into the Master QSF without tax realization."
+  step_4: "Implement an audited, multi-tiered distribution protocol allocating funds among infrastructure reconstruction tranches, civilian war victim compensation, and continuous forensic asset tracing."
+  step_5: "Publish annual fiduciary accounting statements compliant with Restatement (Third) of Trusts standards."
+
+authorities:
+  - "Internal Revenue Code § 468B (26 U.S.C. § 468B)"
+  - "Treasury Regulation § 1.468B-1 (Qualified Settlement Funds)"
+  - "Federal Rules of Civil Procedure, Rule 53 (Masters) and Rule 66 (Receivers)"
+  - "Restatement (Third) of Trusts §§ 76-84 (Fiduciary Accounting)"

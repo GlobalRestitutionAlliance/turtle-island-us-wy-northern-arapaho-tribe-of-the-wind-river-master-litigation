@@ -1,0 +1,26 @@
+skill:
+  id: "historical-intervention-and-canal-concession-audit"
+  name: "Historical Intervention & Canal Concession Audit"
+  version: "1.0.0"
+  status: "CERTIFIED"
+  category: "Historical Treaty Nullity, Protectorate Disgorgement & Maritime Canal Restitution"
+
+description: >
+  Forensic accounting and legal nullity protocol addressing 172 years of uncompensated military interventions,
+  interoceanic canal concession expropriations, and customs receivership usurpations in Nicaragua (1854–2026).
+  Synthesizes Central American Court of Justice (CACJ) judgments, 1912–1933 Marine Occupation customs diversions,
+  and 1850s mercenary filibuster pillage under customary international law.
+
+execution_protocol:
+  step_1: "Incorporate Central American Court of Justice decisions (1916 Costa Rica v. Nicaragua; 1917 El Salvador v. Nicaragua) confirming the international illegality of the 1914 Bryan-Chamorro Treaty."
+  step_2: "Audit historical National Bank of Nicaragua, Pacific Railway, and Collector-General of Customs accounts diverted to U.S. banking syndicates (Brown Brothers / J. & W. Seligman) between 1911 and 1933."
+  step_3: "Reconstruct municipal property and commercial cargo losses resulting from the 1854 naval bombardment and incinerating of San Juan del Norte (Greytown) by the USS Cyane."
+  step_4: "Quantify state responsibility and unjust enrichment arising from the 1855–1857 William Walker mercenary filibuster regime, re-imposition of slavery, and illegal seizure of the Accessory Transit Company."
+  step_5: "Structure restitution claims demanding full disgorgement of imperial concession values, compound interest, and punitive damages."
+
+authorities:
+  - "Central American Court of Justice (CACJ), Costa Rica v. Nicaragua (Judgment of Sept. 30, 1916)"
+  - "Central American Court of Justice (CACJ), El Salvador v. Nicaragua (Judgment of March 9, 1917)"
+  - "Convention of 1970 Abrogating the Bryan-Chamorro Treaty (23 U.S.T. 844)"
+  - "Perrin v. United States (French-American Claims Commission, 1868) (Greytown Incident)"
+  - "United States v. Mitchell, 463 U.S. 206 (1983) (Fiduciary Exception to Sovereign Immunity)"

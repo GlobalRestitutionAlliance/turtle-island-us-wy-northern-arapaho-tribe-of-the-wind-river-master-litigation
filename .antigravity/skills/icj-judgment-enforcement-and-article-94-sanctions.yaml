@@ -1,0 +1,26 @@
+skill:
+  id: "icj-judgment-enforcement-and-article-94-sanctions"
+  name: "ICJ Judgment Enforcement & Article 94 Sanctions"
+  version: "1.0.0"
+  status: "CERTIFIED"
+  category: "Public International Law, World Court Enforcement & Sovereign Immunity Stripping"
+
+description: >
+  Comprehensive methodology for executing and enforcing the 1986 International Court of Justice (ICJ)
+  Judgment on the Merits in Nicaragua v. United States of America across domestic and foreign municipal courts.
+  Leverages UN Charter Article 94(2) non-compliance, UN General Assembly enforcement resolutions (Res 41/31),
+  and restrictive immunity forfeiture under customary international law (UNCSI Art. 12 & 19).
+
+execution_protocol:
+  step_1: "Formulate exequatur and judgment registration pleadings domesticating the ICJ Merits Judgment of 27 June 1986 (I.C.J. Reports 1986, p. 14) in foreign commercial jurisdictions."
+  step_2: "Establish that the United States' invocation of the UNSC veto against draft compliance resolutions constitutes bad-faith non-compliance under UN Charter Article 94(2)."
+  step_3: "Apply the restrictive theory of sovereign immunity and the tort exception (UNCSI Art. 12 / FSIA § 1605(a)(5)) to strip jurisdictional immunity for state commercial assets."
+  step_4: "Calculate compounded reparations quantum based on the 1989 Memorial on Reparations ($12.848B baseline compounded at 6.0%–7.5% to 2026)."
+  step_5: "Issue third-party garnishment notices against foreign commercial clearing accounts, defense logistics receivables, and central bank foreign reserves."
+
+authorities:
+  - "Military and Paramilitary Activities in and against Nicaragua (Nicaragua v. United States), Merits, 1986 I.C.J. Rep. 14"
+  - "United Nations Charter, Article 94(1) and (2)"
+  - "UN General Assembly Resolutions 41/31, 42/18, 43/11, 44/43"
+  - "Factory at Chorzów, 1928 P.C.I.J. (ser. A) No. 17 (Restitutio in Integrum)"
+  - "UN Convention on Jurisdictional Immunities of States and Their Property (UNCSI), Articles 12 & 19"
