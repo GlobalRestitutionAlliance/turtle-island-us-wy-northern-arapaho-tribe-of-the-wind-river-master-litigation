@@ -1,0 +1,14 @@
+skills:
+- id: icj-judgment-enforcement-and-article-94-sanctions
+  name: ICJ Judgment Enforcement & Article 94 Sanctions
+  status: ACTIVE
+  manifest_file: .antigravity/skills/icj-judgment-enforcement-and-article-94-sanctions.yaml
+- id: historical-intervention-and-canal-concession-audit
+  name: Historical Intervention & Canal Concession Audit
+  status: ACTIVE
+  manifest_file: .antigravity/skills/historical-intervention-and-canal-concession-audit.yaml
+- id: nicaraguan-restitution-roadmap-and-qsf-trust-execution
+  name: Nicaraguan Restitution Roadmap & QSF Trust Execution
+  status: ACTIVE
+  manifest_file: .antigravity/skills/nicaraguan-restitution-roadmap-and-qsf-trust-execution.yaml
+total_skills: 3
