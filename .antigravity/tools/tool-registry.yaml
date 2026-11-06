@@ -3,8 +3,8 @@ version: 1.0.0
 description: >
   Modular, decentralized legal research tools, document automation engines, court scrapers, document automation engines,
   and legal AI benchmarks integrated under .antigravity/tools/. Designed for immediate deployment in the
-  US-Nicaragua Master Litigation and portable across all subsequent sovereign restitution repositories
-  (e.g., us-nicaragua-master-litigation, us-honduras-master-litigation, us-hawaii-master-litigation).
+  US-Northern Arapaho Tribe of the Wind River Master Litigation and portable across all subsequent sovereign restitution repositories
+  (e.g., turtle-island-us-wy-northern-arapaho-tribe-of-the-wind-river-master-litigation, us-honduras-master-litigation, us-hawaii-master-litigation).
 license_posture: AGPL-3.0 / Apache-2.0 / MIT Open-Source Shield
 total_tools: 7
 

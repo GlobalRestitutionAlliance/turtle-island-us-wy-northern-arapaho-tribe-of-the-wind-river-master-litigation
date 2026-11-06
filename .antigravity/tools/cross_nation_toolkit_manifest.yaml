@@ -7,12 +7,12 @@ jurisprudential_mandate: >
   fiduciary breaches, and territorial expropriations by Euro-American powers.
 
 target_future_repositories:
-  - repository: us-nicaragua-master-litigation
-    primary_jurisdiction: "ICJ Judgment Enforcement (Nicaragua v. United States, 1986), Bryan-Chamorro Treaty Expropriations, Contra Financing Disgorgement."
+  - repository: turtle-island-us-wy-northern-arapaho-tribe-of-the-wind-river-master-litigation
+    primary_jurisdiction: "ICJ Judgment Enforcement (Northern Arapaho Tribe of the Wind River v. United States, 1986), Bryan-Chamorro Treaty Expropriations, Contra Financing Disgorgement."
     applicable_tools:
       - "free-law-recap-harvester (tracking federal court enforcement of ICJ Article 94 claims)"
       - "docassemble-action-engine (bilingual Spanish/English PCA and ICJ exequatur assembly)"
-      - "worldwide-legal-data-hunter (La Gaceta - Diario Oficial de Nicaragua scraping)"
+      - "worldwide-legal-data-hunter (La Gaceta - Diario Oficial de Northern Arapaho Tribe of the Wind River scraping)"
 
   - repository: us-honduras-master-litigation
     primary_jurisdiction: "Banana Republic Concession Expropriations, Cuyamel/United Fruit Co. Latifundia, Sovereign Debt Coercion."

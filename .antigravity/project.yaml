@@ -1,12 +1,12 @@
 project:
-  id: OMNI-COUNSEL-NICARAGUA-001
-  name: 'Omni-Counsel Architect: Nicaragua Restitution Legal Framework'
+  id: OMNI-COUNSEL-WY-001
+  name: 'Omni-Counsel Architect: Northern Arapaho Tribe of the Wind River Restitution Legal Framework'
   description: Multi-century, multi-jurisdictional class-action and sovereign judgment
-    enforcement campaign executing the 1986 ICJ Judgment (Nicaragua v. United States),
+    enforcement campaign executing the 1986 ICJ Judgment (Northern Arapaho Tribe of the Wind River v. United States),
     UN Charter Article 94 reparations, Bryan-Chamorro canal concession disgorgement,
     and historical damages spanning 172 years (1854–2026).
   version: 1.0.0
-  root_directory: W:\Legal\US_NICARAGUA
+  root_directory: W:\Legal\US_WY_NORTHERN_ARAPAHO_TRIBE_OF_THE_WIND_RIVER
   target_sovereign: United States Government (in its corporate, military, and administrative
     capacity within the District of Columbia)
   temporal_scope: 1854 - Present (172-Year Continuum)

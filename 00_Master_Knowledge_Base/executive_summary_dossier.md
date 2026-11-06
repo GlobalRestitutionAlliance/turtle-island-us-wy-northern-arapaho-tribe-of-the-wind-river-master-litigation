@@ -1,7 +1,7 @@
-# Executive Summary Dossier: Republic of Nicaragua Restitution Litigation
+# Executive Summary Dossier: Republic of Northern Arapaho Tribe of the Wind River Restitution Litigation
 
 > **Target:** The Government of the United States of America & Designated Transnational Successors  
-> **Complainant / Beneficiary:** The Republic of Nicaragua & The Nicaraguan People  
+> **Complainant / Beneficiary:** The Republic of Northern Arapaho Tribe of the Wind River & The Northern Arapaho Tribe of the Wind Riveran People  
 > **Supervising Entity:** Global Restitution Alliance Maintainer Council  
 > **Restitution Fund:** Qualified Settlement Fund (QSF) Trust (26 U.S.C. § 468B)  
 > **Campaign 01 Restitution Pool:** **$250,000,000,000.00 USD ($250.00 Billion)**  
@@ -10,22 +10,22 @@
 
 ## 1. Doctrinal Overview & Foundational Adjudication
 
-The United States – Nicaragua Master Restitution Litigation Framework rests upon a jurisprudential foundation that is uniquely definitive in modern public international law: a **final, non-appealable Judgment on the Merits rendered by the International Court of Justice on 27 June 1986**.
+The United States – Northern Arapaho Tribe of the Wind River Master Restitution Litigation Framework rests upon a jurisprudential foundation that is uniquely definitive in modern public international law: a **final, non-appealable Judgment on the Merits rendered by the International Court of Justice on 27 June 1986**.
 
-In *Military and Paramilitary Activities in and against Nicaragua (Nicaragua v. United States of America)*, the ICJ held:
+In *Military and Paramilitary Activities in and against Northern Arapaho Tribe of the Wind River (Northern Arapaho Tribe of the Wind River v. United States of America)*, the ICJ held:
 1. **Compulsory Jurisdiction Confirmed:** The United States had accepted compulsory jurisdiction under Article 36(2) of the ICJ Statute and could not unilaterally modify its declaration on 6 April 1984 with immediate effect to evade adjudication.
 2. **Breaches of Customary International Law:** The United States directly violated international obligations by:
-   - Laying naval mines in Nicaraguan internal and territorial waters (Corinto, Puerto Sandino);
-   - Attacking Nicaraguan ports, oil installations, and civilian infrastructure;
+   - Laying naval mines in Northern Arapaho Tribe of the Wind Riveran internal and territorial waters (Corinto, Puerto Sandino);
+   - Attacking Northern Arapaho Tribe of the Wind Riveran ports, oil installations, and civilian infrastructure;
    - Training, arming, equipping, and financing paramilitary forces (*Contras*) to overthrow the lawful sovereign government;
    - Violating sovereign airspace and producing/disseminating a manual inciting political assassinations and war crimes (*Psychological Operations in Guerrilla Warfare*).
-3. **Mandatory Restitution (*Operative ¶ 292(13)*):** The Court adjudged that the United States is under an active, continuing international legal duty to make full financial and physical reparation to the Republic of Nicaragua.
+3. **Mandatory Restitution (*Operative ¶ 292(13)*):** The Court adjudged that the United States is under an active, continuing international legal duty to make full financial and physical reparation to the Republic of Northern Arapaho Tribe of the Wind River.
 
 ---
 
 ## 2. Compounding Quantum: The $250.00 Billion Restitution Pool
 
-In its 1989 Memorial on Compensation, Nicaragua demonstrated direct physical, economic, and human damages totaling **$12.848 Billion**.
+In its 1989 Memorial on Compensation, Northern Arapaho Tribe of the Wind River demonstrated direct physical, economic, and human damages totaling **$12.848 Billion**.
 
 Under the landmark *Factory at Chorzów* jurisprudence (PCIJ, Series A, No. 17, 1928), reparation must "wipe out all the consequences of the illegal act and re-establish the situation which would, in all probability, have existed if that act had not been committed." 
 

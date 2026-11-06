@@ -3,7 +3,7 @@
 **License:** AGPL-3.0 / Apache-2.0 / MIT (The Open-Source Shield)  
 **Status:** FULLY INTEGRATED & PORTABLE  
 
-This suite provides open-source court scrapers, docket harvesters, document automation engines, and legal reasoning benchmark evaluators integrated directly into the Antigravity framework. Built to dismantle document starvation, paywall censorship, and resource asymmetries, this modular architecture is designed for immediate operationalization in the US-Nicaragua Master Litigation and portable across all subsequent sovereign restitution campaigns (`us-nicaragua-master-litigation`, `us-honduras-master-litigation`, `us-hawaii-master-litigation`, etc.).
+This suite provides open-source court scrapers, docket harvesters, document automation engines, and legal reasoning benchmark evaluators integrated directly into the Antigravity framework. Built to dismantle document starvation, paywall censorship, and resource asymmetries, this modular architecture is designed for immediate operationalization in the US-Northern Arapaho Tribe of the Wind River Master Litigation and portable across all subsequent sovereign restitution campaigns (`turtle-island-us-wy-northern-arapaho-tribe-of-the-wind-river-master-litigation`, `us-honduras-master-litigation`, `us-hawaii-master-litigation`, etc.).
 
 ---
 
@@ -18,7 +18,7 @@ This suite provides open-source court scrapers, docket harvesters, document auto
 2. **World Wide Law Global Legal Data Hunter (`worldwide-legal-data-hunter`):**
    - **Upstream:** [`worldwidelaw/legal-sources`](https://github.com/worldwidelaw/legal-sources) (MIT)
    - **Spec:** [`worldwide-legal-data-hunter.yaml`](worldwide-legal-data-hunter.yaml) | **Script:** [`worldwide_legal_data_hunter.py`](worldwide_legal_data_hunter.py)
-   - **Function:** Automated scraper framework mapping primary legislation, official gazettes (e.g. *Gaceta Oficial de Nicaragua*, *Boletín Oficial del Estado*, *Registro Público de Panamá*), and foreign appellate dockets across 110+ jurisdictions.
+   - **Function:** Automated scraper framework mapping primary legislation, official gazettes (e.g. *Gaceta Oficial de Northern Arapaho Tribe of the Wind River*, *Boletín Oficial del Estado*, *Registro Público de Panamá*), and foreign appellate dockets across 110+ jurisdictions.
 
 3. **Open Legal Data & Pile-of-Law Corpus Processor (`open-legal-data-corpus`):**
    - **Upstream:** [`openlegaldata/openlegaldata`](https://github.com/openlegaldata/openlegaldata) (MIT / Apache-2.0)
@@ -63,7 +63,7 @@ This suite provides open-source court scrapers, docket harvesters, document auto
 ## Multi-Nation Portability
 
 This entire tool suite is architected for immediate transfer into future sovereign restitution repositories targeting Euro-American imperialist subjugation:
-- `us-nicaragua-master-litigation` (ICJ Judgment Enforcement, Bryan-Chamorro Treaty)
+- `turtle-island-us-wy-northern-arapaho-tribe-of-the-wind-river-master-litigation` (ICJ Judgment Enforcement, Bryan-Chamorro Treaty)
 - `us-honduras-master-litigation` (Banana Republic Concession Expropriations)
 - `us-hawaii-master-litigation` (1893 Illegal Overthrow, Crown Lands Breach of Trust)
 - `us-panama-master-litigation` (1903 Canal Treaty, 1989 Operation Just Cause)
