@@ -1,12 +1,511 @@
 agents:
-- id: agent-icj-judgment-and-article-94-marshal
-  name: ICJ Judgment & Article 94 Marshal
-  role: International Court of Justice (ICJ) 1986 Judgment on the Merits Enforcement, UN Charter Article 94 Non-Compliance Sanctions & Restrictive Immunity Forfeiture Marshal
-  status: ACTIVE
-  manifest_file: .antigravity/agents/agent-icj-judgment-and-article-94-marshal.yaml
-- id: agent-northern-arapaho-tribe-of-the-wind-river-canal-and-intervention-historian
-  name: Northern Arapaho Tribe of the Wind River Canal & Intervention Historian
-  role: Historical Interventions Auditor, Bryan-Chamorro Treaty (1914) & CACJ Nullity Precedents, 1912–1933 Marine Occupation Customs Receivership & 1850s Mercenary Filibuster Disgorgement
-  status: ACTIVE
-  manifest_file: .antigravity/agents/agent-northern-arapaho-tribe-of-the-wind-river-canal-and-intervention-historian.yaml
-total_agents: 2
+  - id: agent_001
+    name: Agent 001
+    status: ACTIVE_SCAFFOLD
+  - id: agent_002
+    name: Agent 002
+    status: ACTIVE_SCAFFOLD
+  - id: agent_003
+    name: Agent 003
+    status: ACTIVE_SCAFFOLD
+  - id: agent_004
+    name: Agent 004
+    status: ACTIVE_SCAFFOLD
+  - id: agent_005
+    name: Agent 005
+    status: ACTIVE_SCAFFOLD
+  - id: agent_006
+    name: Agent 006
+    status: ACTIVE_SCAFFOLD
+  - id: agent_007
+    name: Agent 007
+    status: ACTIVE_SCAFFOLD
+  - id: agent_008
+    name: Agent 008
+    status: ACTIVE_SCAFFOLD
+  - id: agent_009
+    name: Agent 009
+    status: ACTIVE_SCAFFOLD
+  - id: agent_010
+    name: Agent 010
+    status: ACTIVE_SCAFFOLD
+  - id: agent_011
+    name: Agent 011
+    status: ACTIVE_SCAFFOLD
+  - id: agent_012
+    name: Agent 012
+    status: ACTIVE_SCAFFOLD
+  - id: agent_013
+    name: Agent 013
+    status: ACTIVE_SCAFFOLD
+  - id: agent_014
+    name: Agent 014
+    status: ACTIVE_SCAFFOLD
+  - id: agent_015
+    name: Agent 015
+    status: ACTIVE_SCAFFOLD
+  - id: agent_016
+    name: Agent 016
+    status: ACTIVE_SCAFFOLD
+  - id: agent_017
+    name: Agent 017
+    status: ACTIVE_SCAFFOLD
+  - id: agent_018
+    name: Agent 018
+    status: ACTIVE_SCAFFOLD
+  - id: agent_019
+    name: Agent 019
+    status: ACTIVE_SCAFFOLD
+  - id: agent_020
+    name: Agent 020
+    status: ACTIVE_SCAFFOLD
+  - id: agent_021
+    name: Agent 021
+    status: ACTIVE_SCAFFOLD
+  - id: agent_022
+    name: Agent 022
+    status: ACTIVE_SCAFFOLD
+  - id: agent_023
+    name: Agent 023
+    status: ACTIVE_SCAFFOLD
+  - id: agent_024
+    name: Agent 024
+    status: ACTIVE_SCAFFOLD
+  - id: agent_025
+    name: Agent 025
+    status: ACTIVE_SCAFFOLD
+  - id: agent_026
+    name: Agent 026
+    status: ACTIVE_SCAFFOLD
+  - id: agent_027
+    name: Agent 027
+    status: ACTIVE_SCAFFOLD
+  - id: agent_028
+    name: Agent 028
+    status: ACTIVE_SCAFFOLD
+  - id: agent_029
+    name: Agent 029
+    status: ACTIVE_SCAFFOLD
+  - id: agent_030
+    name: Agent 030
+    status: ACTIVE_SCAFFOLD
+  - id: agent_031
+    name: Agent 031
+    status: ACTIVE_SCAFFOLD
+  - id: agent_032
+    name: Agent 032
+    status: ACTIVE_SCAFFOLD
+  - id: agent_033
+    name: Agent 033
+    status: ACTIVE_SCAFFOLD
+  - id: agent_034
+    name: Agent 034
+    status: ACTIVE_SCAFFOLD
+  - id: agent_035
+    name: Agent 035
+    status: ACTIVE_SCAFFOLD
+  - id: agent_036
+    name: Agent 036
+    status: ACTIVE_SCAFFOLD
+  - id: agent_037
+    name: Agent 037
+    status: ACTIVE_SCAFFOLD
+  - id: agent_038
+    name: Agent 038
+    status: ACTIVE_SCAFFOLD
+  - id: agent_039
+    name: Agent 039
+    status: ACTIVE_SCAFFOLD
+  - id: agent_040
+    name: Agent 040
+    status: ACTIVE_SCAFFOLD
+  - id: agent_041
+    name: Agent 041
+    status: ACTIVE_SCAFFOLD
+  - id: agent_042
+    name: Agent 042
+    status: ACTIVE_SCAFFOLD
+  - id: agent_043
+    name: Agent 043
+    status: ACTIVE_SCAFFOLD
+  - id: agent_044
+    name: Agent 044
+    status: ACTIVE_SCAFFOLD
+  - id: agent_045
+    name: Agent 045
+    status: ACTIVE_SCAFFOLD
+  - id: agent_046
+    name: Agent 046
+    status: ACTIVE_SCAFFOLD
+  - id: agent_047
+    name: Agent 047
+    status: ACTIVE_SCAFFOLD
+  - id: agent_048
+    name: Agent 048
+    status: ACTIVE_SCAFFOLD
+  - id: agent_049
+    name: Agent 049
+    status: ACTIVE_SCAFFOLD
+  - id: agent_050
+    name: Agent 050
+    status: ACTIVE_SCAFFOLD
+  - id: agent_051
+    name: Agent 051
+    status: ACTIVE_SCAFFOLD
+  - id: agent_052
+    name: Agent 052
+    status: ACTIVE_SCAFFOLD
+  - id: agent_053
+    name: Agent 053
+    status: ACTIVE_SCAFFOLD
+  - id: agent_054
+    name: Agent 054
+    status: ACTIVE_SCAFFOLD
+  - id: agent_055
+    name: Agent 055
+    status: ACTIVE_SCAFFOLD
+  - id: agent_056
+    name: Agent 056
+    status: ACTIVE_SCAFFOLD
+  - id: agent_057
+    name: Agent 057
+    status: ACTIVE_SCAFFOLD
+  - id: agent_058
+    name: Agent 058
+    status: ACTIVE_SCAFFOLD
+  - id: agent_059
+    name: Agent 059
+    status: ACTIVE_SCAFFOLD
+  - id: agent_060
+    name: Agent 060
+    status: ACTIVE_SCAFFOLD
+  - id: agent_061
+    name: Agent 061
+    status: ACTIVE_SCAFFOLD
+  - id: agent_062
+    name: Agent 062
+    status: ACTIVE_SCAFFOLD
+  - id: agent_063
+    name: Agent 063
+    status: ACTIVE_SCAFFOLD
+  - id: agent_064
+    name: Agent 064
+    status: ACTIVE_SCAFFOLD
+  - id: agent_065
+    name: Agent 065
+    status: ACTIVE_SCAFFOLD
+  - id: agent_066
+    name: Agent 066
+    status: ACTIVE_SCAFFOLD
+  - id: agent_067
+    name: Agent 067
+    status: ACTIVE_SCAFFOLD
+  - id: agent_068
+    name: Agent 068
+    status: ACTIVE_SCAFFOLD
+  - id: agent_069
+    name: Agent 069
+    status: ACTIVE_SCAFFOLD
+  - id: agent_070
+    name: Agent 070
+    status: ACTIVE_SCAFFOLD
+  - id: agent_071
+    name: Agent 071
+    status: ACTIVE_SCAFFOLD
+  - id: agent_072
+    name: Agent 072
+    status: ACTIVE_SCAFFOLD
+  - id: agent_073
+    name: Agent 073
+    status: ACTIVE_SCAFFOLD
+  - id: agent_074
+    name: Agent 074
+    status: ACTIVE_SCAFFOLD
+  - id: agent_075
+    name: Agent 075
+    status: ACTIVE_SCAFFOLD
+  - id: agent_076
+    name: Agent 076
+    status: ACTIVE_SCAFFOLD
+  - id: agent_077
+    name: Agent 077
+    status: ACTIVE_SCAFFOLD
+  - id: agent_078
+    name: Agent 078
+    status: ACTIVE_SCAFFOLD
+  - id: agent_079
+    name: Agent 079
+    status: ACTIVE_SCAFFOLD
+  - id: agent_080
+    name: Agent 080
+    status: ACTIVE_SCAFFOLD
+  - id: agent_081
+    name: Agent 081
+    status: ACTIVE_SCAFFOLD
+  - id: agent_082
+    name: Agent 082
+    status: ACTIVE_SCAFFOLD
+  - id: agent_083
+    name: Agent 083
+    status: ACTIVE_SCAFFOLD
+  - id: agent_084
+    name: Agent 084
+    status: ACTIVE_SCAFFOLD
+  - id: agent_085
+    name: Agent 085
+    status: ACTIVE_SCAFFOLD
+  - id: agent_086
+    name: Agent 086
+    status: ACTIVE_SCAFFOLD
+  - id: agent_087
+    name: Agent 087
+    status: ACTIVE_SCAFFOLD
+  - id: agent_088
+    name: Agent 088
+    status: ACTIVE_SCAFFOLD
+  - id: agent_089
+    name: Agent 089
+    status: ACTIVE_SCAFFOLD
+  - id: agent_090
+    name: Agent 090
+    status: ACTIVE_SCAFFOLD
+  - id: agent_091
+    name: Agent 091
+    status: ACTIVE_SCAFFOLD
+  - id: agent_092
+    name: Agent 092
+    status: ACTIVE_SCAFFOLD
+  - id: agent_093
+    name: Agent 093
+    status: ACTIVE_SCAFFOLD
+  - id: agent_094
+    name: Agent 094
+    status: ACTIVE_SCAFFOLD
+  - id: agent_095
+    name: Agent 095
+    status: ACTIVE_SCAFFOLD
+  - id: agent_096
+    name: Agent 096
+    status: ACTIVE_SCAFFOLD
+  - id: agent_097
+    name: Agent 097
+    status: ACTIVE_SCAFFOLD
+  - id: agent_098
+    name: Agent 098
+    status: ACTIVE_SCAFFOLD
+  - id: agent_099
+    name: Agent 099
+    status: ACTIVE_SCAFFOLD
+  - id: agent_100
+    name: Agent 100
+    status: ACTIVE_SCAFFOLD
+  - id: agent_101
+    name: Agent 101
+    status: ACTIVE_SCAFFOLD
+  - id: agent_102
+    name: Agent 102
+    status: ACTIVE_SCAFFOLD
+  - id: agent_103
+    name: Agent 103
+    status: ACTIVE_SCAFFOLD
+  - id: agent_104
+    name: Agent 104
+    status: ACTIVE_SCAFFOLD
+  - id: agent_105
+    name: Agent 105
+    status: ACTIVE_SCAFFOLD
+  - id: agent_106
+    name: Agent 106
+    status: ACTIVE_SCAFFOLD
+  - id: agent_107
+    name: Agent 107
+    status: ACTIVE_SCAFFOLD
+  - id: agent_108
+    name: Agent 108
+    status: ACTIVE_SCAFFOLD
+  - id: agent_109
+    name: Agent 109
+    status: ACTIVE_SCAFFOLD
+  - id: agent_110
+    name: Agent 110
+    status: ACTIVE_SCAFFOLD
+  - id: agent_111
+    name: Agent 111
+    status: ACTIVE_SCAFFOLD
+  - id: agent_112
+    name: Agent 112
+    status: ACTIVE_SCAFFOLD
+  - id: agent_113
+    name: Agent 113
+    status: ACTIVE_SCAFFOLD
+  - id: agent_114
+    name: Agent 114
+    status: ACTIVE_SCAFFOLD
+  - id: agent_115
+    name: Agent 115
+    status: ACTIVE_SCAFFOLD
+  - id: agent_116
+    name: Agent 116
+    status: ACTIVE_SCAFFOLD
+  - id: agent_117
+    name: Agent 117
+    status: ACTIVE_SCAFFOLD
+  - id: agent_118
+    name: Agent 118
+    status: ACTIVE_SCAFFOLD
+  - id: agent_119
+    name: Agent 119
+    status: ACTIVE_SCAFFOLD
+  - id: agent_120
+    name: Agent 120
+    status: ACTIVE_SCAFFOLD
+  - id: agent_121
+    name: Agent 121
+    status: ACTIVE_SCAFFOLD
+  - id: agent_122
+    name: Agent 122
+    status: ACTIVE_SCAFFOLD
+  - id: agent_123
+    name: Agent 123
+    status: ACTIVE_SCAFFOLD
+  - id: agent_124
+    name: Agent 124
+    status: ACTIVE_SCAFFOLD
+  - id: agent_125
+    name: Agent 125
+    status: ACTIVE_SCAFFOLD
+  - id: agent_126
+    name: Agent 126
+    status: ACTIVE_SCAFFOLD
+  - id: agent_127
+    name: Agent 127
+    status: ACTIVE_SCAFFOLD
+  - id: agent_128
+    name: Agent 128
+    status: ACTIVE_SCAFFOLD
+  - id: agent_129
+    name: Agent 129
+    status: ACTIVE_SCAFFOLD
+  - id: agent_130
+    name: Agent 130
+    status: ACTIVE_SCAFFOLD
+  - id: agent_131
+    name: Agent 131
+    status: ACTIVE_SCAFFOLD
+  - id: agent_132
+    name: Agent 132
+    status: ACTIVE_SCAFFOLD
+  - id: agent_133
+    name: Agent 133
+    status: ACTIVE_SCAFFOLD
+  - id: agent_134
+    name: Agent 134
+    status: ACTIVE_SCAFFOLD
+  - id: agent_135
+    name: Agent 135
+    status: ACTIVE_SCAFFOLD
+  - id: agent_136
+    name: Agent 136
+    status: ACTIVE_SCAFFOLD
+  - id: agent_137
+    name: Agent 137
+    status: ACTIVE_SCAFFOLD
+  - id: agent_138
+    name: Agent 138
+    status: ACTIVE_SCAFFOLD
+  - id: agent_139
+    name: Agent 139
+    status: ACTIVE_SCAFFOLD
+  - id: agent_140
+    name: Agent 140
+    status: ACTIVE_SCAFFOLD
+  - id: agent_141
+    name: Agent 141
+    status: ACTIVE_SCAFFOLD
+  - id: agent_142
+    name: Agent 142
+    status: ACTIVE_SCAFFOLD
+  - id: agent_143
+    name: Agent 143
+    status: ACTIVE_SCAFFOLD
+  - id: agent_144
+    name: Agent 144
+    status: ACTIVE_SCAFFOLD
+  - id: agent_145
+    name: Agent 145
+    status: ACTIVE_SCAFFOLD
+  - id: agent_146
+    name: Agent 146
+    status: ACTIVE_SCAFFOLD
+  - id: agent_147
+    name: Agent 147
+    status: ACTIVE_SCAFFOLD
+  - id: agent_148
+    name: Agent 148
+    status: ACTIVE_SCAFFOLD
+  - id: agent_149
+    name: Agent 149
+    status: ACTIVE_SCAFFOLD
+  - id: agent_150
+    name: Agent 150
+    status: ACTIVE_SCAFFOLD
+  - id: agent_151
+    name: Agent 151
+    status: ACTIVE_SCAFFOLD
+  - id: agent_152
+    name: Agent 152
+    status: ACTIVE_SCAFFOLD
+  - id: agent_153
+    name: Agent 153
+    status: ACTIVE_SCAFFOLD
+  - id: agent_154
+    name: Agent 154
+    status: ACTIVE_SCAFFOLD
+  - id: agent_155
+    name: Agent 155
+    status: ACTIVE_SCAFFOLD
+  - id: agent_156
+    name: Agent 156
+    status: ACTIVE_SCAFFOLD
+  - id: agent_157
+    name: Agent 157
+    status: ACTIVE_SCAFFOLD
+  - id: agent_158
+    name: Agent 158
+    status: ACTIVE_SCAFFOLD
+  - id: agent_159
+    name: Agent 159
+    status: ACTIVE_SCAFFOLD
+  - id: agent_160
+    name: Agent 160
+    status: ACTIVE_SCAFFOLD
+  - id: agent_161
+    name: Agent 161
+    status: ACTIVE_SCAFFOLD
+  - id: agent_162
+    name: Agent 162
+    status: ACTIVE_SCAFFOLD
+  - id: agent_163
+    name: Agent 163
+    status: ACTIVE_SCAFFOLD
+  - id: agent_164
+    name: Agent 164
+    status: ACTIVE_SCAFFOLD
+  - id: agent_165
+    name: Agent 165
+    status: ACTIVE_SCAFFOLD
+  - id: agent_166
+    name: Agent 166
+    status: ACTIVE_SCAFFOLD
+  - id: agent_167
+    name: Agent 167
+    status: ACTIVE_SCAFFOLD
+  - id: agent_168
+    name: Agent 168
+    status: ACTIVE_SCAFFOLD
+  - id: agent_169
+    name: Agent 169
+    status: ACTIVE_SCAFFOLD
+  - id: agent_170
+    name: Agent 170
+    status: ACTIVE_SCAFFOLD

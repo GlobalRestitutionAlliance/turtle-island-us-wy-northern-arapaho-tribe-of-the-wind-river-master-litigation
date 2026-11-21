@@ -1,0 +1,11 @@
+{
+  "url": "https://history.state.gov/historicaldocuments",
+  "final_url": "https://history.state.gov/historicaldocuments",
+  "status": 200,
+  "content_type": "text/html;charset=utf-8",
+  "bytes": 34097,
+  "sha256": "c948fdff783f2e5f735777ee50bcbb0275a5f704e4309529f3aaa966605f6580",
+  "captured_at": "2026-11-21T22:52:51.488128Z",
+  "custodian": "OpenCode/harvest",
+  "provenance": "direct-http-capture"
+}
