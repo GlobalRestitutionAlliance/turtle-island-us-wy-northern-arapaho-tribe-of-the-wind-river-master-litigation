@@ -1,0 +1,22 @@
+skill:
+  id: "damages-quantum-modeling"
+  name: "Damages Quantum Modeling & Restitution Accounting"
+  version: "1.1.0"
+
+  policy:
+    valuation_status_default: "TBD (valuation pending)"
+    publication_rule: "No published pool without versioned cited workbook and human review"
+    verification_rule: "NO_VERIFIED_WITHOUT_LOCAL_HASHED_ARTIFACT"
+    vector_baseline: "1805 vectors minimum baseline and goal; expand with verified evidence"
+
+  capabilities:
+    - "Model historical valuations from primary records (cadastral, contracts, certified claims, ledgers)"
+    - "Calculate interest/multipliers only where legally applicable and cited"
+    - "Quantify unjust enrichment/disgorgement with traceable evidence"
+    - "Produce low/base/high bands with confidence and offsets"
+    - "Link every valuation row to vector, citation, hashed artifact, and reviewer"
+
+  output_requirements:
+    - "No fabricated amounts, sources, or citations"
+    - "All amounts traceable to workbook rows and local hashed artifacts"
+    - "Default status PENDING_LEGAL_REVIEW until human sign-off"

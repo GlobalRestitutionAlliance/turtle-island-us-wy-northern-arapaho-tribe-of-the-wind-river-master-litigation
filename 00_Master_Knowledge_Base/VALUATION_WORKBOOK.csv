@@ -1,0 +1,1 @@
+vector_id,claim_category,harm_period_start,harm_period_end,jurisdiction,defendant_actor,evidence_artifact,citation_id,sha256,damages_theory,baseline_amount,baseline_currency,baseline_year,adjustment_method,interest_or_multiplier,offsets,low,base,high,confidence,verification_status,reviewer,review_date,notes
