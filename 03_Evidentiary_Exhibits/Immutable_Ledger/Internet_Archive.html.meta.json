@@ -1,0 +1,12 @@
+{
+  "url": "https://archive.org/",
+  "final_url": "https://archive.org/",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 2046,
+  "sha256": "329de0d85f6904215feec653c153fdc1f7f8807e3bfaedb8c05542fcf3c2419f",
+  "captured_at": "2026-11-22T17:22:05.285282Z",
+  "custodian": "OpenCode/harvest",
+  "provenance": "direct-http-capture",
+  "batch": "2b"
+}

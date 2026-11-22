@@ -1,0 +1,12 @@
+{
+  "url": "https://en.wikisource.org/",
+  "final_url": "https://en.wikisource.org/wiki/Main_Page",
+  "status": 200,
+  "content_type": "",
+  "bytes": 131944,
+  "sha256": "f1f02568e88c7f7327e2592f2cd8064cc67353af713a715cbfe36eaa2f0fe50a",
+  "captured_at": "2026-11-22T17:22:07.141950Z",
+  "custodian": "OpenCode/harvest",
+  "provenance": "direct-http-capture",
+  "batch": "2b"
+}

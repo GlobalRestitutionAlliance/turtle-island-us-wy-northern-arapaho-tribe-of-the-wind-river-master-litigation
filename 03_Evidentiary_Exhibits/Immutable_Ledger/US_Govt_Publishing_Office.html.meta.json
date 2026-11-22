@@ -1,0 +1,12 @@
+{
+  "url": "https://www.govinfo.gov/",
+  "final_url": "https://www.govinfo.gov/",
+  "status": 200,
+  "content_type": "text/html",
+  "bytes": 65676,
+  "sha256": "2afbc7eda2fb8bd786e4fa221fcfb9740604902b8a053e61d9d36a20f20993b7",
+  "captured_at": "2026-11-22T17:22:08.932001Z",
+  "custodian": "OpenCode/harvest",
+  "provenance": "direct-http-capture",
+  "batch": "2b"
+}

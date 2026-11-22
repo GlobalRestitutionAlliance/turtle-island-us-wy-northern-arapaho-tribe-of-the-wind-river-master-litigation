@@ -1,0 +1,12 @@
+{
+  "url": "https://www.archives.gov/",
+  "final_url": "https://www.archives.gov/",
+  "status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 29358,
+  "sha256": "b1be5889069b829d9a2e1f7c05017dd31c0dca382d1e3b3a18d7ef8b6bc77893",
+  "captured_at": "2026-11-22T17:22:04.258631Z",
+  "custodian": "OpenCode/harvest",
+  "provenance": "direct-http-capture",
+  "batch": "2b"
+}
