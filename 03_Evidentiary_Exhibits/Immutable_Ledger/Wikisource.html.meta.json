@@ -8,5 +8,10 @@
   "captured_at": "2026-11-22T17:22:07.141950Z",
   "custodian": "OpenCode/harvest",
   "provenance": "direct-http-capture",
-  "batch": "2b"
+  "batch": "2b",
+  "http_status": 200,
+  "fetched_at": "2026-11-22T17:22:07.141950Z",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED"
 }
