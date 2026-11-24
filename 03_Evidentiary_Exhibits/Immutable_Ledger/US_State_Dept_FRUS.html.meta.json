@@ -7,10 +7,5 @@
   "sha256": "c948fdff783f2e5f735777ee50bcbb0275a5f704e4309529f3aaa966605f6580",
   "captured_at": "2026-11-21T22:52:51.488128Z",
   "custodian": "OpenCode/harvest",
-  "provenance": "direct-http-capture",
-  "http_status": 200,
-  "fetched_at": "2026-11-21T22:52:51.488128Z",
-  "substantive": true,
-  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW",
-  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED"
+  "provenance": "direct-http-capture"
 }

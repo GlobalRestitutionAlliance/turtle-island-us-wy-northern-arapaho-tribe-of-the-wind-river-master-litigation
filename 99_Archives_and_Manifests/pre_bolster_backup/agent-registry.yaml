@@ -1,12 +1,12 @@
-# Remediated scaffold configuration — Us Wy Northern Arapaho Tribe of the Wind River
-status: PENDING_LEGAL_REVIEW
-campaign: US_WY_NORTHERN_ARAPAHO_TRIBE_OF_THE_WIND_RIVER
-notice: >-
-  Remediated scaffold. Unverified template content asserting fabricated claims,
-  dollar amounts, foreign judgments, or VERIFIED status was removed.
-governance:
-  verification_status: PENDING_LEGAL_REVIEW
-  legal_review_status: PENDING_LEGAL_REVIEW
-  valuation_status: TBD
-  evidence_mapping_status: AUTO_CANDIDATE_PENDING_REVIEW
-  verification_rule: NO_VERIFIED_WITHOUT_LOCAL_HASHED_ARTIFACT
+agents:
+- id: agent-icj-judgment-and-article-94-marshal
+  name: ICJ Judgment & Article 94 Marshal
+  role: International Court of Justice (ICJ) 1986 Judgment on the Merits Enforcement, UN Charter Article 94 Non-Compliance Sanctions & Restrictive Immunity Forfeiture Marshal
+  status: ACTIVE
+  manifest_file: .antigravity/agents/agent-icj-judgment-and-article-94-marshal.yaml
+- id: agent-northern-arapaho-tribe-of-the-wind-river-canal-and-intervention-historian
+  name: Northern Arapaho Tribe of the Wind River Canal & Intervention Historian
+  role: Historical Interventions Auditor, Bryan-Chamorro Treaty (1914) & CACJ Nullity Precedents, 1912–1933 Marine Occupation Customs Receivership & 1850s Mercenary Filibuster Disgorgement
+  status: ACTIVE
+  manifest_file: .antigravity/agents/agent-northern-arapaho-tribe-of-the-wind-river-canal-and-intervention-historian.yaml
+total_agents: 2

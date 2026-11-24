@@ -1,22 +1,8 @@
 # Primary Public Sources
 
-
 - [National Archives - Native American Records](https://www.archives.gov/research/native-americans)
 - [Bureau of Indian Affairs](https://www.bia.gov/)
 - [Library of Congress - Indigenous Law](https://www.loc.gov/law/help/american-indian-consts/)
 - [US State Dept FRUS](https://history.state.gov/historicaldocuments)
 - [UN OHCHR Indigenous Peoples](https://www.ohchr.org/en/indigenous-peoples)
 - [CourtListener](https://www.courtlistener.com/)
-- [US National Archives](https://www.archives.gov/)
-- [Library of Congress](https://www.loc.gov/)
-- [Chronicling America (LOC Newspapers)](https://chroniclingamerica.loc.gov/)
-- [HathiTrust Digital Library](https://www.hathitrust.org/)
-- [Internet Archive](https://archive.org/)
-- [FOIA.gov](https://www.foia.gov/)
-- [NARA FOIA](https://www.archives.gov/foia)
-- [UN Digital Library](https://digitallibrary.un.org/)
-- [UN OHCHR](https://www.ohchr.org/)
-- [Justia](https://www.justia.com/)
-- [WorldCat](https://search.worldcat.org/)
-- [Wikisource](https://en.wikisource.org/)
-- [US Govt Publishing Office](https://www.govinfo.gov/)
