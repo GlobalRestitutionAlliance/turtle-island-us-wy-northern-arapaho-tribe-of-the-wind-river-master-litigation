@@ -7,11 +7,5 @@
   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
   "captured_at": "2026-11-21T22:52:51.694644Z",
   "custodian": "OpenCode/harvest",
-  "provenance": "direct-http-capture",
-  "http_status": 202,
-  "fetched_at": "2026-11-21T22:52:51.694644Z",
-  "quality_flag": "NOT_SUBSTANTIVE_EMPTY_PENDING_RECAPTURE",
-  "annotation_note": "Empty/challenge capture detected; not substantive evidence. Pending recapture.",
-  "substantive": false,
-  "legal_review_status": "PENDING_LEGAL_REVIEW"
+  "provenance": "direct-http-capture"
 }
